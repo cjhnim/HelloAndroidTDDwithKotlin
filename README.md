@@ -1,9 +1,9 @@
 # android TDD 멘토링 (featured. Kotlin)
 
 * 멘토링 날짜 : 2018-08-07
-* 멘토링 목표
+* 멘토링 목표 : Tdd 감잡기
 
-## Tdd 감잡기
+## Handout
 ### Android TDD tutorial
 * https://github.com/NileshJarad/TDD_Demo
 
