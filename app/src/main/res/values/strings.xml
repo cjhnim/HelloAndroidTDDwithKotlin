@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="empty_userid">Please type your username</string>
+    <string name="empty_password">Please type your password</string>
+    <string name="invalid_password">invalid password</string>
+    <string name="signin_succeed">sign in successfully</string>
+</resources>
